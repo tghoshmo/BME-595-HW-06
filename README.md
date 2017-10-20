@@ -14,5 +14,5 @@
 
 * Comments 
    
-   * The above graphs indicate the presence of high bias and high variance  
-   * A deeper network and regularisation may help tackling these problems. 
+   * The above graphs indicate the presence of high bias and high variance.  
+   * A deeper network coupled with regularisation may help tackling such problems. 
