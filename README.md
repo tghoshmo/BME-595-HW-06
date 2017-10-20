@@ -11,6 +11,8 @@
   ![image1](https://github.com/tghoshmo/BME-595-HW-06/blob/master/Figure_2.png)
 
 
+
 * Comments 
    
-   * High bias, high variance  
+   * The above graphs indicate the presence of high bias and high variance  
+   * A deeper network and regularisation may help tackling these problems. 
